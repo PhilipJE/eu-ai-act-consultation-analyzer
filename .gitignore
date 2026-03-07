@@ -19,3 +19,4 @@ anaconda_projects/
 
 data/processed/*.pkl
 data/processed/*.csv
+data/processed/*.html

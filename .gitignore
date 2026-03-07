@@ -16,3 +16,6 @@ anaconda_projects/
 
 # Virtual documents
 .virtual_documents/
+
+data/processed/*.pkl
+data/processed/*.csv
